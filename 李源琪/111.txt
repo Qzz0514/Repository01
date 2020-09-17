@@ -1,1 +1,6 @@
-描述、提交、上传、同步
+点击邮件里的邀请码、进入qzz的仓库页面，然后打开GitHub desktop，点击file，
+clone repository，点击URL，把qzz的仓库地址复制到local path，点clone，
+就进入仓库了。然后打开存储的位置文件夹，以后作业都放在这个文件夹里，
+在点击desktop，就能出现文件，然后先描述作业、再点击commit to master提交、
+再点击上传、再同步。
+每次改完一次文件都要重新描述上传。
