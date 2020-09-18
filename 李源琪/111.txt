@@ -4,3 +4,4 @@ clone repository，点击URL，把qzz的仓库地址复制到local path，点clo
 在点击desktop，就能出现文件，然后先描述作业、再点击commit to master提交、
 再点击上传、再同步。
 每次改完一次文件都要重新描述上传。
+dddd
